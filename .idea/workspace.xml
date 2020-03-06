@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7cfcbbbf-a453-43e2-8d1b-dbe80d90762a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="hideInfoMessages" value="true" />
+    <option name="HIDE_INFO_MESSAGES" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="pgl3.2" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1Yist5ugGisVW95jjJg293Ia2DD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Groovy JUnit" value="groovy.util.GroovyTestCase" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="fr.uvsq.pglp" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+      <recent name="groovy.util.GroovyTestCase" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean" />
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7cfcbbbf-a453-43e2-8d1b-dbe80d90762a" name="Default Changelist" comment="" />
+      <created>1583436960617</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583436960617</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="784" y="138" key="#Project_Structure" timestamp="1583451910823">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="784" y="138" key="#Project_Structure/0.0.1600.860@0.0.1600.860" timestamp="1583451910823" />
+    <state x="528" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1583443188472">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="528" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1583443188472" />
+    <state x="935" y="280" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1583451756996">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="935" y="280" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1600.860@0.0.1600.860" timestamp="1583451756996" />
+    <state x="812" y="180" key="FileChooserDialogImpl" timestamp="1583451907924">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="812" y="180" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1583451907924" />
+    <state width="1557" height="280" key="GridCell.Tab.0.bottom" timestamp="1583528605626">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="280" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1583528605626" />
+    <state width="1557" height="280" key="GridCell.Tab.0.center" timestamp="1583528605626">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="280" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1583528605626" />
+    <state width="1557" height="280" key="GridCell.Tab.0.left" timestamp="1583528605626">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="280" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1583528605626" />
+    <state width="1557" height="280" key="GridCell.Tab.0.right" timestamp="1583528605626">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="280" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1583528605626" />
+    <state x="508" y="259" key="com.intellij.ide.util.TipDialog" timestamp="1583527993184">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="508" y="259" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1583527993184" />
+    <state x="571" y="151" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1583505940721">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="571" y="151" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1600.860@0.0.1600.860" timestamp="1583505940721" />
+    <state x="182" y="135" key="new project wizard" timestamp="1583505126510">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="182" y="135" key="new project wizard/0.0.1600.860@0.0.1600.860" timestamp="1583505126510" />
+    <state x="456" y="195" width="672" height="677" key="run.anything.popup" timestamp="1583528574476">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="456" y="195" width="672" height="677" key="run.anything.popup/0.0.1600.860@0.0.1600.860" timestamp="1583528574476" />
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1583505726764">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1583505726764" />
+  </component>
+</project>
